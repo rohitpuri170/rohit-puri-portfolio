@@ -10,7 +10,7 @@ export const site = {
   location: 'Karachi, Pakistan',
   email: 'rohitpuri2k2022@gmail.com',
   github: 'https://github.com/rohitpuri170/',
-  linkedin: 'https://tinyurl.com/yz553d6',
+ linkedin: 'https://www.linkedin.com/in/rohit-puri-79b20a343',
   resumeUrl: '/resume.pdf', // drop your resume PDF into /public and keep this name, or change the path
   siteUrl: import.meta.env.VITE_SITE_URL || '',
   year: new Date().getFullYear(),

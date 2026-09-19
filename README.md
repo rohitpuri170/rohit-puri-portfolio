@@ -101,7 +101,7 @@ files to update the site content without touching any component.
   line in `index.html` (it's commented out with instructions right next
   to it).
 - **LinkedIn URL**: currently set to the tinyurl link you provided
-  (`https://tinyurl.com/yz553d6`) in `src/data/config.js` — swap it for
+  (`www.linkedin.com/in/rohit-puri-79b20a343`) in `src/data/config.js` — swap it for
   your full `linkedin.com/in/...` URL whenever you'd like.
 
 ## C. Commands to run it locally
